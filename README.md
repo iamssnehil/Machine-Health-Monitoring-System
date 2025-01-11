@@ -1,7 +1,4 @@
 # Machine-Health-Monitoring-System
-Official Documentation for  Machine-Health-Monitoring-System - HackCbs
-
-## Machine-Health-Monitoring-System 
 The Machine Monitoring System is a powerful tool designed to track and analyze the real-time operational data of industrial machines, helping you to improve efficiency, reduce downtime, and ensure preventive maintenance. This system collects data from various sensors and devices connected to the machines, providing a centralized dashboard that displays key performance indicators (KPIs) and alerts for operational insights.
 
 # Key Features of Machine-Health-Monitoring-System
